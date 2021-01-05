@@ -17,4 +17,4 @@ I am a full-stack web developper with a passion for learning and pushing myself 
 - Firebase
 - MongoDB
 
-:chart_with_upwards_trend:Also doing graphic designs
+:chart_with_upwards_trend: Also doing graphic designs
