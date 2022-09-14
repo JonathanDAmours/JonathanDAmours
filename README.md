@@ -9,7 +9,7 @@ I am a frontend web developper with a passion for learning and pushing myself fo
 📫 How to reach me: jonathan.damours93@gmail.com <br><br>
 
 ⚡ Known technologies: <br>
-- HTML / CSS
+- HTML / CSS (Sass - Less)
 - Javascript
 - Node.js
 - React.js
