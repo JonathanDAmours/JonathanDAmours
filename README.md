@@ -10,7 +10,7 @@ I am a frontend web developper with a passion for learning and pushing myself fo
 
 ⚡ Known technologies: <br>
 - HTML / CSS (Sass - Less)
-- Javascript
+- Javascript / Typescript
 - Node.js
 - React.js
 - Vue
