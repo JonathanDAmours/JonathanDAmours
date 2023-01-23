@@ -4,7 +4,6 @@ I am a frontend web developper with a passion for learning and pushing myself fo
 
 
 🔭 I’m currently working on my WAS certification. <br>
-🌱 I’m currently learning Twig <br>
 
 📫 How to reach me: jonathan.damours93@gmail.com <br><br>
 
